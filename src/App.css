@@ -1,0 +1,18 @@
+a,
+a:link,
+a:hover {
+  text-decoration: none !important;
+  color: inherit;
+}
+
+.job-box {
+  color: #222;
+  transition: all 0.5s;
+}
+.job-box:hover {
+  border: 1px solid #14921f !important;
+}
+
+body {
+  background-color: rgb(251, 253, 255) !important;
+}
