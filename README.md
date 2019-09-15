@@ -1,5 +1,5 @@
 
-## Job Finder Project Using Reac Js
+## Job Finder Project Using React Js
 
 I have make a job finder project using react and bootstrap.
 To run this project. Do clone or download zip.
