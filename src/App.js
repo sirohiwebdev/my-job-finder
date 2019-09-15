@@ -55,7 +55,7 @@ class App extends React.Component {
     return (
       <div className="mb-5 pb-5">
         <Navbar updateJobs={this.updateJobs.bind(this)}></Navbar>
-        <div className="container mt-5 px-5">
+        <div className="container mt-5">
           <h2 className="text-center mt-5 pt-5">Jobs Found</h2>
 
           <div className="col bg-white p-4 shadow-sm">

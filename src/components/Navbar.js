@@ -78,7 +78,7 @@ class Navbar extends Component {
         <a href="#" className="navbar-brand">
           Job Finder
         </a>
-        <form className="form-inline ml-auto" onSubmit={this.onSubmit}>
+        <form className="form-inline ml-md-auto" onSubmit={this.onSubmit}>
           <div className="form-group col-9">
             <input
               type="text"
